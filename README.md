@@ -1,2 +1,2 @@
 # AeroPointNet
-The dataset of AeroPointNet
+The datasets of AeroPointNet
